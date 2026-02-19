@@ -8,7 +8,8 @@ st.title("📊 Yogarbar Sales Dashboard")
 # ---------- LOAD DATA ----------
 @st.cache_data
 def load_data():
-    return pd.read_excel("data.xlsx")
+    return pd.read_excel("data.xlsx", engine="openpyxl")
+
 
 df = load_data()
 
