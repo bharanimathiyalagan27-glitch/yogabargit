@@ -1,0 +1,6 @@
+| Date       | Product      | Region | Sales | Quantity |
+| ---------- | ------------ | ------ | ----- | -------- |
+| 2025-01-01 | Protein Bar  | South  | 12000 | 100      |
+| 2025-01-02 | Energy Drink | North  | 8000  | 60       |
+| 2025-01-03 | Protein Bar  | East   | 15000 | 120      |
+| 2025-01-04 | Granola      | West   | 6000  | 40       |
